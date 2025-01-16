@@ -32,6 +32,11 @@ Desafio de Projeto DIO - Criação de Phishing
 
 - URL para clone: [http://www.facebook.com](http://www.facebook.com/) e http://www.likedin.com/
 
+- ### Resultado: 
+
+Foram feitas duas tentativas com os referidos sites diferentes, mas infelizmente não foi possivel fazer as capturas dos dados inseridos. É possível que medidas de seguranças foram implantadas. 
+Não sendo mais possível fazer as capturas dos dados
+
   
 
 
